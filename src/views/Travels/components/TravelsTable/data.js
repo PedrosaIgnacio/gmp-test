@@ -28,26 +28,26 @@ export const TableHeader = [
 export const TableContentTravels = [
     {
         nroViaje:"0042",
-        destino: "La Plata",
-        kms: 700,
+        destino: "Rosedal - Santa Ana",
+        kms: 30,
         fecha: "10/02/2023",
         horarioSalida: "20:40",
-        horarioDestino: "04:33" 
+        horarioDestino: "23:40" 
     },
     {
-        nroViaje:"0078",
-        destino: "Rio Cuarto",
-        kms: 300,
+        nroViaje:"0043",
+        destino: "Jardin - Cerveceros",
+        kms: 23,
         fecha: "11/02/2023",
-        horarioSalida: "12:40",
-        horarioDestino: "16:15" 
+        horarioSalida: "12:15",
+        horarioDestino: "14:15" 
     },
     {
-        nroViaje:"0092",
-        destino: "Bowen",
-        kms: 500,
-        fecha: "10/02/2023",
+        nroViaje:"0044",
+        destino: "San Carlos - Bower",
+        kms: 27,
+        fecha: "12/02/2023",
         horarioSalida: "13:40",
-        horarioDestino: "19:06" 
+        horarioDestino: "15:40" 
     },
 ]

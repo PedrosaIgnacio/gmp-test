@@ -6,9 +6,9 @@ export default [
       'end': new Date(2023, 3, 1)
     },
     {
-      'title': 'Rio Cuarto',
-      'start': new Date(2023, 5, 7),
-      'end': new Date(2023, 5, 10)
+      'title': 'Recorrido (Artigas - San Fernando)',
+      'start': new Date(),
+      'end': new Date()
     },
   
     {
