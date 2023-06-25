@@ -1,9 +1,9 @@
 export default [
     {
-      'title': 'All Day Event very long title',
+      'title': 'Recorrido',
       'allDay': true,
-      'start': new Date(2023, 3, 0),
-      'end': new Date(2023, 3, 1)
+      'start': new Date(2023, 5, 1),
+      'end': new Date(2023, 5, 1)
     },
     {
       'title': 'Recorrido (Artigas - San Fernando)',
@@ -12,21 +12,21 @@ export default [
     },
   
     {
-      'title': 'DTS STARTS',
-      'start': new Date(2023, 2, 13, 0, 0, 0),
-      'end': new Date(2023, 2, 20, 0, 0, 0)
+      'title': 'Recorrido',
+      'start': new Date(2023, 5, 13),
+      'end': new Date(2023, 5, 13)
     },
   
     {
-      'title': 'DTS ENDS',
-      'start': new Date(2023, 10, 6, 0, 0, 0),
-      'end': new Date(2023, 10, 13, 0, 0, 0)
+      'title': 'Recorrido',
+      'start': new Date(2023, 5, 6),
+      'end': new Date(2023, 5, 6)
     },
   
     {
-      'title': 'Some Event',
-      'start': new Date(2023, 3, 9, 0, 0, 0),
-      'end': new Date(2023, 3, 9, 0, 0, 0)
+      'title': 'Recorrido',
+      'start': new Date(2023, 5, 9),
+      'end': new Date(2023, 5, 9)
     },
     {
       'title': 'Conference',

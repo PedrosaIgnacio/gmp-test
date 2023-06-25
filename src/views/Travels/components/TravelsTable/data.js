@@ -50,4 +50,36 @@ export const TableContentTravels = [
         horarioSalida: "13:40",
         horarioDestino: "15:40" 
     },
+    {
+        nroViaje:"0045",
+        destino: "Smata - Cañitas",
+        kms: 27,
+        fecha: "12/02/2023",
+        horarioSalida: "13:40",
+        horarioDestino: "15:40" 
+    },
+    {
+        nroViaje:"0046",
+        destino: "Empalme",
+        kms: 27,
+        fecha: "12/02/2023",
+        horarioSalida: "13:40",
+        horarioDestino: "15:40" 
+    },
+    {
+        nroViaje:"0047",
+        destino: "Ayacucho",
+        kms: 27,
+        fecha: "12/02/2023",
+        horarioSalida: "13:40",
+        horarioDestino: "15:40" 
+    },
+    {
+        nroViaje:"0048",
+        destino: "Gral Paz - Alta Cordoba",
+        kms: 27,
+        fecha: "12/02/2023",
+        horarioSalida: "13:40",
+        horarioDestino: "15:40" 
+    },
 ]
